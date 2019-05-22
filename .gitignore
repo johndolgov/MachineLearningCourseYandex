@@ -1,0 +1,9 @@
+*.md
+*.pdf
+Slides/
+slides/
+ML_HSE/
+*.zip
+data/
+*.png
+*.txt
